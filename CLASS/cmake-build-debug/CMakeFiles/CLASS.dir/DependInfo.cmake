@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/w/WangDian/C/CLASS/fun.c" "/cygdrive/w/WangDian/C/CLASS/cmake-build-debug/CMakeFiles/CLASS.dir/fun.c.o"
-  "/cygdrive/w/WangDian/C/CLASS/main.c" "/cygdrive/w/WangDian/C/CLASS/cmake-build-debug/CMakeFiles/CLASS.dir/main.c.o"
+  "/cygdrive/w/WangDian/C_Learn/CLASS/fun.c" "/cygdrive/w/WangDian/C_Learn/CLASS/cmake-build-debug/CMakeFiles/CLASS.dir/fun.c.o"
+  "/cygdrive/w/WangDian/C_Learn/CLASS/main.c" "/cygdrive/w/WangDian/C_Learn/CLASS/cmake-build-debug/CMakeFiles/CLASS.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/w/WangDian/C/CLASS
+# Install script for directory: /cygdrive/w/WangDian/C_Learn/CLASS
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/w/WangDian/C/CLASS/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/w/WangDian/C_Learn/CLASS/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

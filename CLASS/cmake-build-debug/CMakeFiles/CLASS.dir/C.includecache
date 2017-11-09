@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/w/WangDian/C/CLASS/fun.c
+/cygdrive/w/WangDian/C_Learn/CLASS/fun.c
 stdio.h
 -
 fun.h
-/cygdrive/w/WangDian/C/CLASS/fun.h
+/cygdrive/w/WangDian/C_Learn/CLASS/fun.h
 
-/cygdrive/w/WangDian/C/CLASS/fun.h
+/cygdrive/w/WangDian/C_Learn/CLASS/fun.h
 
-/cygdrive/w/WangDian/C/CLASS/main.c
+/cygdrive/w/WangDian/C_Learn/CLASS/main.c
 stdio.h
 -
 fun.h
-/cygdrive/w/WangDian/C/CLASS/fun.h
+/cygdrive/w/WangDian/C_Learn/CLASS/fun.h
 
